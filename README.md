@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/thedigitalninja-mcp-fitbit-badge.png)](https://mseep.ai/app/thedigitalninja-mcp-fitbit)
+
 # Fitbit MCP Connector for AI
 
 [![Fitbit API](https://img.shields.io/badge/Fitbit-00B0B9?logo=fitbit&logoColor=white)](https://dev.fitbit.com/)
